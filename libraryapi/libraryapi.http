@@ -1,0 +1,6 @@
+@libraryapi_HostAddress = http://localhost:5207
+
+GET {{libraryapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
